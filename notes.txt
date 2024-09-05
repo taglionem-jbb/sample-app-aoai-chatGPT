@@ -1,0 +1,5 @@
+w/ venv running
+run  .\start.cmd to start debugging
+
+az webapp up --runtime PYTHON:3.11 --sku B2 --name jbb-ai-chat --resource-group testing-azurestudio
+as deploy
